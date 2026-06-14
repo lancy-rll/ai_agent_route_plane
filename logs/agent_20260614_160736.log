@@ -1,0 +1,2 @@
+2026-06-14 16:09:18,738 agent        INFO     地理编码响应: {'status': '0', 'info': 'INVALID_USER_KEY', 'infocode': '10001'}
+2026-06-14 16:09:18,740 agent        ERROR    地理编码失败: 无法找到地址 '北京': INVALID_USER_KEY

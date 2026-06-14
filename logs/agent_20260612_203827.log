@@ -1,0 +1,8 @@
+2026-06-12 20:44:55,451 agent        INFO     地理编码响应: {'info': 'USERKEY_PLAT_NOMATCH', 'infocode': '10009', 'status': '0', 'sec_code_debug': 'd41d8cd98f00b204e9800998ecf8427e', 'key': 'd601769fbb28765c4ad8bdb8afafe2a1', 'sec_code': '1515f99c96e22f24db7222e6650b0211'}
+2026-06-12 20:44:55,452 agent        ERROR    地理编码失败: 无法找到地址 '北京': USERKEY_PLAT_NOMATCH
+2026-06-12 20:45:05,800 agent        INFO     地理编码响应: {'info': 'USERKEY_PLAT_NOMATCH', 'infocode': '10009', 'status': '0', 'sec_code_debug': 'd41d8cd98f00b204e9800998ecf8427e', 'key': 'd601769fbb28765c4ad8bdb8afafe2a1', 'sec_code': '1515f99c96e22f24db7222e6650b0211'}
+2026-06-12 20:45:05,801 agent        ERROR    地理编码失败: 无法找到地址 '天安门': USERKEY_PLAT_NOMATCH
+2026-06-12 20:45:13,016 agent        INFO     地理编码响应: {'info': 'USERKEY_PLAT_NOMATCH', 'infocode': '10009', 'status': '0', 'sec_code_debug': 'd41d8cd98f00b204e9800998ecf8427e', 'key': 'd601769fbb28765c4ad8bdb8afafe2a1', 'sec_code': '1515f99c96e22f24db7222e6650b0211'}
+2026-06-12 20:45:13,017 agent        ERROR    地理编码失败: 无法找到地址 '成都': USERKEY_PLAT_NOMATCH
+2026-06-12 20:51:43,014 agent        INFO     地理编码响应: {'info': 'USERKEY_PLAT_NOMATCH', 'infocode': '10009', 'status': '0', 'sec_code_debug': 'd41d8cd98f00b204e9800998ecf8427e', 'key': 'd601769fbb28765c4ad8bdb8afafe2a1', 'sec_code': '1515f99c96e22f24db7222e6650b0211'}
+2026-06-12 20:51:43,016 agent        ERROR    地理编码失败: 无法找到地址 '北京': USERKEY_PLAT_NOMATCH
